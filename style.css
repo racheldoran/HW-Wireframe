@@ -28,7 +28,7 @@
 }
 
  .section {
-  padding-top: 30px;
+  padding-top: 35px;
   margin-right: 20px;
   margin-bottom:15px;
   height: 270px;
@@ -39,9 +39,9 @@
 
 .article {
   padding: 18px;
-  margin: 20px;
+  margin: 15px;
   float: left;
-  width: 460px;
+  width: 465px;
   color: #ebebeb;
   background: #777;
 }

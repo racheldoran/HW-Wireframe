@@ -39,8 +39,9 @@
 
 .article {
   padding-top: 15px;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
   margin: 25px;
+  margin-bottom: 10px;
   float: left;
   width: 90%;
   color: #ebebeb;
@@ -49,7 +50,7 @@
 
  .textbox {
   margin-top: 20px;
-  padding: 16px;
+  padding: 18px;
   width: 400px;
   font-size: 18px;
   color: #777;
